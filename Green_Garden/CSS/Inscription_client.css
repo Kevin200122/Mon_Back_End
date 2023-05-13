@@ -1,0 +1,53 @@
+body {
+    height: 100vh;
+    background: linear-gradient(green 50%, #fff 50%);
+    margin-top: 60px;
+}
+
+form {
+    position: relative;
+    border: 5px color black;
+    height: 450px;
+    width: 400px;
+    display: block;
+    text-align: center;
+    border-radius: 3px;
+    margin: 3px, 3px, 3px, 3px color brown;
+    left: 37%;
+    color: black;
+    background-color: lightgreen;
+    font-size: 15px;
+}
+
+p {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#le_Login {
+    width: 380px;
+    height: 30px;
+}
+
+#Le_mail {
+    width: 380px;
+    height: 30px;
+}
+
+#Le_MDP {
+    width: 380px;
+    height: 30px;
+}
+
+#Confirme {
+    width: 380px;
+    height: 30px;
+}
+
+#Inscription_client {
+    width: 380px;
+    height: 30px;
+    color: white;
+    background-color: green;
+}
