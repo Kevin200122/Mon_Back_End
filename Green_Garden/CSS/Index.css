@@ -1,0 +1,32 @@
+#Bloque_Recherche {
+    position: relative;
+    display: block;
+    width: 1000px;
+    height: 100px;
+    background-color: lightgreen;
+    left: 450px;
+    top: 50px;
+}
+
+#Green {
+    position: relative;
+    left: 400px;
+    bottom: 50px;
+    font-style: italic;
+}
+
+#Recherche_Produit {
+    position: relative;
+    left: 57px;
+    bottom: 35px;
+    width: 400px;
+    height: 30px;
+}
+
+#La_Maison {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    top: 63px;
+    left: 5px;
+}
